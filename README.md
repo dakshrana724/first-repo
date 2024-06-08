@@ -1,4 +1,4 @@
 # first-repo
-starting a new journey
+starting the new journey
 <br>
 Author:Daksh Rana
