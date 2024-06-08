@@ -1,3 +1,4 @@
 # first-repo
 starting a new journey
-author:Daksh Rana
+<br>
+Author:Daksh Rana
